@@ -10,6 +10,9 @@ In this challenge you must analyze demographic data using Pandas. You are given 
 
 [2.Mean-Variance-Standard Deviation Calculator](https://github.com/Vignesh-Hariharan/Data-Analysis-with-Python-Free-Code-Camp/tree/main/DataAnalysis/Mean-Variance-Standard%20Deviation%20Calculator)
 
+This is to Create a function uses Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix.
+
+
 [3.Medical Data Visualizer](https://github.com/Vignesh-Hariharan/Data-Analysis-with-Python-Free-Code-Camp/tree/main/DataAnalysis/Medical%20Data%20Visualizer)
 
 In this project, you will visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas. The dataset values were collected during medical examinations.
